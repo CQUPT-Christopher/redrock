@@ -1,0 +1,22 @@
+.example {
+    background-color: pink;
+    width: 120px;
+    height: 100px;
+}
+
+.meishayong {
+    width: 300px;
+}
+
+.biaoge {
+    width: 400px;
+    border-spacing: 0;
+}
+
+td {
+    height: 40px;
+}
+
+.juzhong{
+    text-align: center;
+}
